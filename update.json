@@ -1,7 +1,7 @@
 {
     "response":
     {
-        "id":9,
+        "id":1,
         "title":"Linqq",
         "developer":"iTaysonLab & chikada3301",
         "description":"VK Linqq – Клиент ВКонтакте для Андроид.<br>
@@ -9,6 +9,7 @@
         Приложение поддерживает скачивание музыки, различные стили оформления и ещё много других функций..",
         "versioning":"commit",
         "version":"20a",
+meta_class:"re.sova.five.OTAMeta",
         "beta_type":null,
         "beta_auth":null,
         "icon":"https://cumshop.fun/icon/linqq.jpg",
