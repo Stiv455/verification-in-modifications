@@ -1,0 +1,22 @@
+{
+    "response":
+    {
+        "id":1,
+        "title":"Linqq",
+        "developer":"iTaysonLab & chikada3301",
+        "description":"VK Linqq – Клиент ВКонтакте для Андроид.<br>
+        Модификация официального клиента ВКонтакте, основанная на версии 6.54 (9332).<br>
+        Приложение поддерживает скачивание музыки, различные стили оформления и ещё много других функций..",
+        "versioning":"commit",
+        "version":"19.7a",
+        meta_class:"re.sova.five.OTAMeta",
+        "beta_type":null,
+        "beta_auth":null,
+        "icon":"https://cumshop.fun/icon/linqq.jpg",
+        "beta_id":-1,
+        "package":"re.sova.five",
+        "gradient":"657FF7:FB5970",
+        "changelog":"v19.7a:\n\n[+] bugs fix..\n\n[+] Возможность получить галочку. \n\n[+] Сильная оптимизация",
+        "screenshots":["https://cumshop.fun/ota/photos/1_1.jpg","https://cumshop.fun/ota/photos/1_2.jpg","https://cumshop.fun/ota/photos/1_3.jpg"]
+    }
+}
