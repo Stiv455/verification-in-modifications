@@ -5,12 +5,11 @@
         "title":"Linqq",
         "versioning":"commit",
         "version":"20.1a",
-        meta_class:"re.sova.five.OTAMeta",
+        "meta_class":"re.sova.five.OTAMeta",
         "beta_type":null,
         "beta_auth":null,
         "beta_id":-1,
         "package":"re.sova.five",
-        
-        "changelog":"v20.1a:\n\n[+] bugs fix..\n\n[+] Переезд на новые сервера. \n\n[+] Обязательное обновление..","
+        "changelog":"v20.1a:\n\n[+] bugs fix..\n\n[+] Переезд на новые сервера. \n\n[+] Обязательное обновление.."
     }
 }
