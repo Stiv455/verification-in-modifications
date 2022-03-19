@@ -27,5 +27,19 @@
     "tayson_verif":
         [
             "425898310", "447946755", "537991394", "350358815"
-        ]
+
+        ],
+
+    "remote_prefs":
+
+    {
+
+        "stack_photos":true,
+
+        "official_ver":"6.13.1",
+
+        "official_ver_int":6127
+
+    }
+
 }
