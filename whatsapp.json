@@ -1,0 +1,14 @@
+{
+	"version": "2.22.11.4",
+	"download": "https://t.me/",
+	"update": [
+		{
+			"languaje": "en",
+			"changelog": "https://pastebin.com/raw/uzvR0uYr"
+		},
+		{
+			"languaje": "es",
+			"changelog": "https://pastebin.com/raw/uzvR0uYr"
+		}
+	]
+}
