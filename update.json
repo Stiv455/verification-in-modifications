@@ -1,31 +1,17 @@
 {
-
     "response":
-
     {
-
         "id":1,
-
         "title":"Linqq",
-
         "developer":"iTaysonLab & chikada3301",
-
         "versioning":"commit",
-
-        "version":"34.1",
-
+        "version":"35",
         "meta_class":"re.sova.five.OTAMeta",
-
         "beta_type":null,
-
         "beta_auth":null,
-
         "beta_id":null,
-
         "package":"re.sova.five",
-
-        "changelog":"v20.2a:\n[+] bugs fix..\n[+] Переезд на новые сервера. \n[+] Обязательное обновление..\n\n❤️"
-
+   "changelog":"v22.7:\n[+] bugs fix..\n[-] Переезд на новые сервера. \n[+] Рефакторинг галочек \n[+] Исправление ошибок.. \n\n🤍🤍🤍"
     }
-
 }
+
