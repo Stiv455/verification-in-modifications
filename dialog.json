@@ -1,0 +1,10 @@
+{
+  "title": "Важная информация!",
+  "message": "Подпишись на нашу группу в Telegram и будь в курсе всех новостей",
+  "positiveButton": "Закрыть",
+  "neutralButton": "Открыть ссылку",
+  "link": "https://t.me/linqq",
+  "key": "vtdialoglink",
+  "cancelable": true,
+  "isNotForVerified": false
+}
