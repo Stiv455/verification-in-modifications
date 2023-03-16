@@ -1,6 +1,9 @@
-{
-  "version": "v4.9",
-  "version_code": 14431,
-  "link": "https://t.me/linqq_tests/16",
-  "changelog": "Тестирование обновлений по облаку."
+9{
+  "version": "v4.2.2",
+  "version_code": 14567,
+  "link": "https://t.me/linqq_tests/20",
+  "changelog": "
+- Добавлена блокировка приложения
+- Небольшой редизайн настроек
+- Исправления и улучшения."
 }
