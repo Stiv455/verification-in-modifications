@@ -1,15 +1,12 @@
 {
-  "tag_name": "7.9.9",
-  "published_at": "2023-12-10T08:56:26Z",
+  "tag_name": "8984.794.7579",
+  "published_at": "3024-01-01T00:00:00Z",
   "assets": [
     {
       "name": "Cherrygram-Huawei-7.9.3-TG-10.3.2-x86_64.apk",
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
       "size": 9838618,
-      "download_count": 4,
-      "created_at": "2023-12-10T09:27:25Z",
-      "updated_at": "2023-12-10T09:28:50Z",
       "browser_download_url": "https://github.com/arsLan4k1390/Cherrygram/releases/download/7.9.3/Cherrygram-Huawei-7.9.3-TG-10.3.2-x86_64.apk"
     }
   ],
