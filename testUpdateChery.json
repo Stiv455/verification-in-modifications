@@ -3,11 +3,11 @@
   "published_at": "3024-01-01T00:00:00Z",
   "assets": [
     {
-      "name": "Cherrygram-Huawei-7.9.3-TG-10.3.2-x86_64.apk",
+      "name": "app-debug.apk",
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
       "size": 9838618,
-      "browser_download_url": "https://github.com/arsLan4k1390/Cherrygram/releases/download/7.9.3/Cherrygram-Huawei-7.9.3-TG-10.3.2-x86_64.apk"
+      "browser_download_url": "https://github.com/Stiv455/verification-in-modifications/raw/main/app-debug.apk" 
     }
   ],
   "body": "🇷🇺 Список изменений: @chikada3301"
