@@ -36,8 +36,6 @@
         "repos_url": "https://api.github.com/users/arsLan4k1390/repos",
         "events_url": "https://api.github.com/users/arsLan4k1390/events{/privacy}",
         "received_events_url": "https://api.github.com/users/arsLan4k1390/received_events",
-        "type": "User",
-        "site_admin": false
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
